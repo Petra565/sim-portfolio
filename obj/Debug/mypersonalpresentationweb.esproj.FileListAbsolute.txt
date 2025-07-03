@@ -1,0 +1,2 @@
+C:\Users\simpe\source\repos\MyPersonalPresentationWeb\MyPersonalPresentationWeb\obj\Debug\mypersonalpresentationweb.esproj.CoreCompileInputs.cache
+C:\Users\simpe\Desktop\MyPersonalPresentationWeb\MyPersonalPresentationWeb\obj\Debug\mypersonalpresentationweb.esproj.CoreCompileInputs.cache
