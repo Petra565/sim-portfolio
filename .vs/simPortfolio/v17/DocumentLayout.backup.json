@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|c:\\users\\simpe\\source\\repos\\simportfolio\\simportfolio\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|solutionrelative:src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|c:\\users\\simpe\\source\\repos\\simportfolio\\simportfolio\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|c:\\users\\simpe\\source\\repos\\simportfolio\\simportfolio\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|c:\\users\\simpe\\source\\repos\\simportfolio\\simportfolio\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|c:\\users\\simpe\\source\\repos\\simportfolio\\simportfolio\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|c:\\users\\simpe\\source\\repos\\simportfolio\\simportfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AB28992-4637-4A9F-BCA0-A4C37D85E2D0}|simportfolio.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.jsx",
+              "DocumentMoniker": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\src\\components\\Contact.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Contact.jsx",
+              "ToolTip": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\src\\components\\Contact.jsx",
+              "RelativeToolTip": "src\\components\\Contact.jsx",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-07T11:24:58.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-07T11:10:02.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-07T11:09:55.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-07T11:09:11.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-07T11:08:42.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\simpe\\source\\repos\\simPortfolio\\simPortfolio\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-07T11:07:24.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
