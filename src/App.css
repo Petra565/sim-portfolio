@@ -47,10 +47,18 @@ body {
     }
 
 .linkStyle {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
     .linkStyle:hover {
-        color: white;
+        color: grey;
+    }
+
+.contactContainer {
+    background-color: #242424;
+}
+
+    .headingContact{
+        color: white
     }

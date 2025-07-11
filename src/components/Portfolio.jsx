@@ -6,6 +6,8 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
+import Badge from 'react-bootstrap/Badge';
+
 function Portfolio() {
 
     const accommodationImages = [
@@ -14,7 +16,7 @@ function Portfolio() {
         { image: "/images/AccommodationProject03.png" },
         { image: "/images/AccommodationProject04.png" },
     ]
-     const interierImages = [
+    const interierImages = [
         { image: "/images/Interier01.png" },
         { image: "/images/Interier02.png" },
         { image: "/images/Interier03.png" },
@@ -41,22 +43,22 @@ function Portfolio() {
 
                 <Row className="justify-content-md-center text-start">
                     <p className="my-3"><strong>Použité technológie:</strong></p>
-                    <ul className="list-inside">
-                        <li>JavaScript, React</li>
-                        <li>Bootstrap</li>
+                    <ul className="list-unstyled">
+                        <li><Badge bg="secondary fs-6 mb-1">React</Badge></li>
+                        <li><Badge bg="secondary fs-6">Bootstrap</Badge></li>
                     </ul>
                 </Row>
 
                 <Row className="justify-content-md-center text-start">
-                    <h5 className="mt-4">Prezentačná stránka pre malú stolársku výrobu</h5>
-                    <p>Jednoduchá stránka pozostávajúca z úvodnej obrazovky, galérie a kontaktnej stránky.</p>
+                    <h5 className="mt-4">Stránka prezentujúca nábytok na mieru</h5>
+                    <p>Jednoduchá stránka pozostávajúca z úvodnej obrazovky, galérie a kontaktu.</p>
                 </Row>
 
                 <Row className="mx-0 mb-4">
                     <Button className=" buttonBgColor w-full" as="a" href="https://github.com/Petra565/InterierWeb.git" target="_blank" rel="noopener noreferrer"><strong>Odkaz na GitHub repozitár</strong></Button>
                 </Row>
 
-                 <Row className="mx-0 mb-4">
+                <Row className="mx-0 mb-4">
                     <Button variant="secondary" className=" w-full" as="a" href="https://simoncic-interier.sk" target="_blank" rel="noopener noreferrer"><strong>Odkaz na stránku</strong></Button>
                 </Row>
 
@@ -66,9 +68,9 @@ function Portfolio() {
 
                 <Row className="justify-content-md-center text-start">
                     <p className="my-3"><strong>Použité technológie:</strong></p>
-                    <ul className="list-inside">
-                        <li>JavaScript, React</li>
-                        <li>Tailwind</li>
+                    <ul className="list-unstyled">
+                        <li><Badge bg="secondary fs-6 mb-1">React</Badge></li>
+                        <li><Badge bg="secondary fs-6">Tailwind</Badge></li>
                     </ul>
                 </Row>
 

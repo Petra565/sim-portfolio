@@ -13,18 +13,29 @@ function App() {
 
     return (
         <>
-
             <section className=" fullContainer container-fluid p-0">
                 <Hero></Hero>
+
                 <Row className="mainContainer m-0">
                     <Col></Col>
                     <Col sm={10} md={8} className="mainSection" >
                         <About></About>
                         <Skills></Skills>
                         <Portfolio></Portfolio>
-                        <Contact></Contact></Col>
+                    </Col>
                     <Col></Col>
                 </Row>
+
+                <Row className="contactContainer mx-0 mt-4">
+                    <Col></Col>
+
+                    <Col className="contactSection" sm={10} md={8}>
+                        <Contact></Contact>
+                    </Col>
+
+                    <Col></Col>
+                </Row>
+
 
                 <footer className="footerSection">
                     <p className="mb-0" style={{ height: "2rem" }}>&copy; 2025 Petra Šimončičová</p>
